@@ -21,7 +21,7 @@ Spotify client id et secret can find here [spotify](https://developer.spotify.co
 
 a discord token id this is a tuto to have it [discord](https://discord.com/login?redirect_to=%2Fdevelopers%2Fapplications).
 
-a wait app id can be found here [wit](https://wit.ai).
+a wit.ai app id can be found here [wit](https://wit.ai).
 
 I let u invastigate to retrieve this data basicaly you just need to make an account then make an app and go to the setting for the credentials.
 for discord you migh need to tell that your app is a bot. (lot of tuto on ytb anyways).
