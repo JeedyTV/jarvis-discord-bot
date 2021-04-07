@@ -17,9 +17,9 @@ Use Docker desktop to run the bot from your own computer [Docker desktop](https:
 once installed download this repesitory on your computer and go in the main folder.
 
 Now you need to provide some information to make it work.
-Spotify client id et secret can find here [ ]().
-a discord token id this is a tuto to have it []()
-a wait app id can be found here []().
+Spotify client id et secret can find here [spotify](https://developer.spotify.com).
+a discord token id this is a tuto to have it [discord](https://discord.com/login?redirect_to=%2Fdevelopers%2Fapplications)
+a wait app id can be found here [wit](https://wit.ai).
 I let u invastigate to retrieve this data basicaly you just need to make an account then make an app and go to the setting for the credentials.
 for discord you migh need to tell that your app is a bot. (lot of tuto on ytb anyways).
 
