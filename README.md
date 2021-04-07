@@ -38,7 +38,7 @@ linux and mac user you need to run the .sh like this
 
 ```bash
 cd path/of/the/rep_folder
-./bot.shh
+./bot.sh
 ```
 
 ## Usage
