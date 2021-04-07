@@ -28,13 +28,13 @@ for discord you migh need to tell that your app is a bot. (lot of tuto on ytb an
 
 Once you have completed the data in the config/config.json (wit.ai and discord token) and server/conf.ini for the spotify datas you can do this.
 
-#for windows you need to run the .bat by double clicking on it or by doin this in your cmd(command promts or powershell).
+##for windows you need to run the .bat by double clicking on it or by doin this in your cmd(command promts or powershell).
 
 ```batch
 C:\PATH\TO\FOLDER\bot.bat
 ```
 
-#linux and mac user you need to run the .sh like this
+##linux and mac user you need to run the .sh like this
 
 ```bash
 cd path/of/the/rep_folder
