@@ -1,7 +1,7 @@
 {
-    "BOT_TOKEN": "Njk2MDQ3MTE3OTIzMjU0Mjky.XojCZA.KZz5OlvG3xohq4GYf-H6rGVGMng",
+    "BOT_TOKEN": "",
     "port": 1610,
     "ip": "localhost",
     "prefix":".",
-    "WITAIAPI": "CUNSE3S3U6PY3XLMVQAFF2ZE67QDIU2W"
+    "WITAIAPI": ""
 }
