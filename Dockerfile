@@ -11,5 +11,4 @@ COPY . .
 RUN pip3 install -r server/requirements.txt
 RUN npm install
 RUN npm update
-RUN npm install pm2@latest -g
 CMD node .
